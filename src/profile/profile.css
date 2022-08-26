@@ -1,0 +1,19 @@
+.profil{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.profil .btn button{
+       
+        font-size: 19px;
+        border-radius: 5px;
+        border: .2rem solid black;
+        color: black;
+        cursor: pointer;
+        background: none;
+    }
+.profil .btn button:hover{
+        background-color:palevioletred;
+        color:white;
+}
